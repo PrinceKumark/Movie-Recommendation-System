@@ -647,41 +647,7 @@ Contributions are welcome! Here's how:
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 
----
 
-## 📬 Contact
-
-<div align="center">
-
-### Get in Touch!
-
-Feel free to reach out for collaborations, questions, or feedback:
-
-[![GitHub](https://img.shields.io/badge/GitHub-hk--kumawat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hk-kumawat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Kumawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-kumawat/)
-[![Email](https://img.shields.io/badge/Email-harshalkumawat100@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshalkumawat100@gmail.com)
-
-</div>
-
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if you found it helpful!
-
-**Made with ❤️ by Harshal Kumawat**
-
-
-<p align="right">
-  <a href="#readme-top">⬆️ Back to top</a>
-</p>
-
-
-</div>
 
